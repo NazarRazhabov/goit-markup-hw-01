@@ -10,7 +10,6 @@ head{
 
 .text1{
 color: white;
--webkit-text-fill-color: transparent;
 margin-left: 282px;
 font-size: 50px;
 margin-top: 50px;
@@ -40,7 +39,7 @@ border-radius: 20px;
     margin-top: -350px;
     font-size: 30px;
     border: 0;
-    border-radius: 15px;
+    border-radius: 7px;
     font-size: 20px;
 }
 
@@ -116,7 +115,7 @@ border-radius: 20px;
 }
 
 .j4{
-    background: url(images/imgphoto2.png);
+    background: url(../images/imgphoto2.png);
     width: 370px;
     height: 294px;
     margin-top: -312px;
@@ -125,7 +124,7 @@ border-radius: 20px;
 }
 
 .j5{
-    background: url(images/imgphoto3.png);
+    background: url(../images/imgphoto3.png);
     width: 370px;
     height: 294px;
     margin-left: 1015px;
@@ -147,39 +146,43 @@ border-radius: 20px;
 
 
 .j7{
-  background: url(images/team\ card\ 1group.png);
+  background: url(../images/team\ card\ 1.jpg);
   width: 270px;
   height: 428px;
   margin-left: 215px;
   margin-top: 125px;
   margin-right: 1115px;
+  background-repeat: no-repeat
 }
 
 .j8{
-  background: url(images/team\ card\ 2group.png);
+  background: url(../images/team\ card\ 2.jpg);
   width: 270px;
   height: 428px;
   margin-top: -446px;
   margin-left: 515px;
   margin-right: 815px;
+  background-repeat: no-repeat
 }
 
 .j9{
-  background: url(../images/team\ card\ 3group.png);
+  background: url(../images/team\ card\ 3.jpg);
   width: 270px;
   height: 428px;
   margin-top: -446px;
   margin-left: 815px;
   margin-right: 515px;
+  background-repeat: no-repeat
 }
 
 .j10{
-  background: url(images/team\ card\ 4group.png);
+  background: url(../images/team\ card\ 4.jpg);
   width: 270px;
   height: 428px;
   margin-top: -446px;
   margin-left: 1115px;
   margin-right: 215px;
+  background-repeat: no-repeat
 }
 
 .j14{
@@ -264,12 +267,5 @@ border-radius: 20px;
   margin-top: -145px;
 }
 
-.j29{
-  background: url(images/EllipseIcons3-1.png);
-  width: 44px;
-  height: 44px;
-  margin-left: 616px;
-  margin-top: 30px;
-}
 
 
